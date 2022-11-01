@@ -11,12 +11,12 @@ export function App() {
         <SearchTerm />
       </section>
       <section>
-        <h2>Favorite Recipes</h2>
+        <h2 style={{color:'white'}}>Favorite Albums</h2>
         <FavoriteRecipes />
       </section>
       <hr />
       <section>
-        <h2>All Recipes</h2>
+        <h2 style={{color:'#35372a'}}>All Albums</h2>
         <AllRecipes />
       </section>
     </main>
