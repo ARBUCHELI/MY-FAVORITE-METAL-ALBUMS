@@ -1,5 +1,5 @@
 html {
-    background-color: white;
+    background-color: #6c683d;
 }
 
 .rounded-corners {
@@ -12,16 +12,16 @@ html {
   
 .headerapp {
     text-align: center;
-    margin: 5px 260px 0px 260px;
-    padding: 1em 1em 0px 0px;
+    margin: 20px 260px 0px 260px;
+    padding: 1em 1em 1em 0px;
     border-radius: 6px;
-    background-color: white;  
-    border: solid black 1px;
+    background-color: #35372a;  
+    border: solid white 1px;
 }
   
 .h1-header {
     font-family: "Oxygen", sans-serif;
-    color: #DAA520;
-    font-size: 2em;
+    color: white;
+    font-size: 3em;
     font-weight: 900;
 }
