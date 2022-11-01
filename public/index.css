@@ -71,9 +71,9 @@ body,
 .recipe {
   padding: 16px 13px 16px 14px;
   border-radius: 6px;
-  border: solid 1px #141c3a;
-  background-color: none;
-  text-align: left;
+  border: solid 1px #151b17;
+  background-color: white;
+  text-align: center;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
@@ -99,10 +99,11 @@ body,
 }
 
 .recipe-name {
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 16px;
+  font-weight: bolder;
   margin: 0;
   margin-bottom: 0px;
+  color: #35372a;
 }
 
 .recipes-container {
